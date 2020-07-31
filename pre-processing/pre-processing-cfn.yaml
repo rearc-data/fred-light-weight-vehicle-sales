@@ -85,7 +85,7 @@ Resources:
     Type: AWS::Events::Rule
     Properties:
       Description: "ScheduledRule"
-      ScheduleExpression: "59 3 ? * FRI *
+      ScheduleExpression: "cron(59 3 ? * FRI *)"
       State: "ENABLED"
       Targets:
         -
