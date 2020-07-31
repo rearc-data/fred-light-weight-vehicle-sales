@@ -5,7 +5,7 @@
 Light Weight Vehicle Sales: Autos and Light Trucks | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-4mvzksfoldwye](https://aws.amazon.com/marketplace/pp/prodview-4mvzksfoldwye).
 
 ## Main Overview
 
